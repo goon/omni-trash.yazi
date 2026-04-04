@@ -26,7 +26,7 @@
 **Via `ya pkg`:**
 
 ```sh
-ya pkg add goon/omni-trash.yazi
+ya pkg add goon/omni-trash
 ```
 
 **Manual:**
